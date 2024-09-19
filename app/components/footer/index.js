@@ -7,7 +7,7 @@ export const Footer = () => {
                 <div className="flex lg:justify-center items-center lg:pt-20 pt-10 ">
                     <h3 className='text-black text-[48px] flex items-center'>
                         <Image
-                            src="/common-assets/ok.png"
+                            src="/personal-portfolio/common-assets/ok.png"
                             width="50"
                             height="50"
                             alt="Omica Logo"
@@ -28,7 +28,7 @@ export const Footer = () => {
                 <div className="flex justify-center items-center pt-6 ">
                     <div className='mr-2 p-2 bg-white dark:bg-primary flex items-center justify-center w-10 h-10 rounded-full'>
                         <Image
-                            src="/common-assets/facebook.svg"
+                            src="/personal-portfolio/common-assets/facebook.svg"
                             width="35"
                             height="35"
                             alt="Mayuri facebook"
@@ -36,7 +36,7 @@ export const Footer = () => {
                     </div>
                     <div className='mr-2 p-2 bg-white dark:bg-primary flex items-center justify-center w-10 h-10 rounded-full'>
                         <Image
-                            src="/common-assets/twitter.svg"
+                            src="/personal-portfolio/common-assets/twitter.svg"
                             width="35"
                             height="35"
                             alt="Mayuri twitter"
@@ -44,7 +44,7 @@ export const Footer = () => {
                     </div>
                     <div className='mr-2 p-2 bg-white dark:bg-primary flex items-center justify-center w-10 h-10 rounded-full'>
                         <Image
-                            src="/common-assets/instagram.svg"
+                            src="/personal-portfolio/common-assets/instagram.svg"
                             width="35"
                             height="35"
                             alt="Mayuri facebook"
@@ -52,7 +52,7 @@ export const Footer = () => {
                     </div>
                     <div className='mr-2 p-2 bg-white dark:bg-primary flex items-center justify-center w-10 h-10 rounded-full'>
                         <Image
-                            src="/common-assets/linkledin.svg"
+                            src="/personal-portfolio/common-assets/linkledin.svg"
                             width="35"
                             height="35"
                             alt="Mayuri facebook"
