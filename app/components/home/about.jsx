@@ -7,7 +7,7 @@ export const About = () => {
                 <div className="flex items-center justify-left order-2 lg:order-1">
                     <div className=" relative">
                         <Image
-                            src="/common-assets/photo.jpeg"
+                            src="/personal-portfolio/common-assets/photo.jpeg"
                             width="400"
                             height="0"
                             alt="Omica about"
