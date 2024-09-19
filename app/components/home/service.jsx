@@ -3,27 +3,27 @@ import Image from 'next/image';
 const data = [
 
     {
-        image: "/common-assets/service-icon3.svg",
+        image: "/personal-portfolio/common-assets/service-icon3.svg",
         name: 'Python',
         description: 'Python is a high-level, general-purpose programming language that is used for a variety of purposes, including web applications, software development, data science, and machine learning.'
     },
     {
-        image: "/common-assets/service-icon3.svg",
+        image: "/personal-portfolio/common-assets/service-icon3.svg",
         name: 'Java',
         description: 'Java is a widely-used programming language for coding web applications. It has been a popular choice among developers for over two decades, with millions of Java applications in use today.'
     },
     {
-        image: "/common-assets/service-icon1.svg",
+        image: "/personal-portfolio/common-assets/service-icon1.svg",
         name: 'HTML',
         description: 'HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page.'
     },
     {
-        image: "/common-assets/service-icon4.svg",
+        image: "/personal-portfolio/common-assets/service-icon4.svg",
         name: 'CSS',
         description: 'CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.'
     },
     {
-        image: "/common-assets/service-icon2.svg",
+        image: "/personal-portfolio/common-assets/service-icon2.svg",
         name: 'Javascript',
         description: 'JavaScript , often abbreviated as JS, is a programming language and core technology of the Web, alongside HTML and CSS. 99% of websites use JavaScript on the client side for webpage behavior.'
     },

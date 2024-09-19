@@ -33,7 +33,7 @@ export const Appbar = () => {
                                         <div className="flex flex-shrink-0 items-center mx-6">
                                             <h3 className='text-black text-[48px] flex items-center'>
                                                 <Image
-                                                    src="/common-assets/ok.png"
+                                                    src="/personal-portfolio/common-assets/ok.png"
                                                     width="50"
                                                     height="50"
                                                     alt="Omica Logo"

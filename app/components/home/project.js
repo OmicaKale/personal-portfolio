@@ -6,19 +6,19 @@ import Image from 'next/image';
 const data = [
     
     {
-        image:'/common-assets/img-6.png',
+        image:'/personal-portfolio/common-assets/img-6.png',
         name:"Python & ML",
         title: 'Facebreach Alert',
         category: "python",
     },
     {
-        image:'/common-assets/img-5.png',
+        image:'/personal-portfolio/common-assets/img-5.png',
         name:"Python & ML",
         title: 'Facebreach Alert',
         category: "python",
     },
     {
-        image:'/common-assets/img-4.png',
+        image:'/personal-portfolio/common-assets/img-4.png',
         name:"Python & ML",
         title: 'Facebreach Alert',
         category: "python",
