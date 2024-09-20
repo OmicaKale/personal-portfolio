@@ -8,6 +8,10 @@ body {
     position: relative;
 }
 
+html.dark body {
+    background: #0f172a;
+}
+
 .slick-slide.slick-active.slick-center.slick-current {
     width: 500px;
     border-radius: 22px;
