@@ -9,12 +9,12 @@ export const Banner = () => {
                     <div className="">
                         <div>
                             <h2 className="text-black dark:text-white text-lg font-semibold mt-4 lg:mt-9">Hi I am</h2>
-                            <h1 className="text-primary text-4xl lg:text-4xl font-semibold pt-2 ">Omica Kale </h1>
+                            <h1 className="text-primary text-4xl lg:text-5xl font-semibold pt-2 ">Omica Kale </h1>
                         </div>
                         <div>
                             <div className='flex justify-start lg:block'>
-                                <h1 className="text-black dark:text-white text-3xl lg:text-9xl font-semibold pt-2 whitespace-nowrap">Web</h1>
-                                <h1 className="text-black dark:text-white text-3xl lg:text-9xl font-semibold pt-2 ml-4 lg:ml-60 whitespace-nowrap">Developer</h1>
+                                <h1 className="text-black dark:text-white text-3xl lg:text-8xl font-semibold pt-2 whitespace-nowrap">Web</h1>
+                                <h1 className="text-black dark:text-white text-3xl lg:text-8xl font-semibold pt-2 ml-4 lg:ml-60 whitespace-nowrap">Developer</h1>
                             </div>
                             <p className="text-gray600 dark:text-white text-sm font-medium mt-7 w-[150%]">I'm a passionate and driven individual who recently graduated with a Bachelor's degree in Computer Engineering from Smt. Kashibai Navale College Of Engineering, Pune. My journey into the world of technology began with a keen interest in python & java development, and since then, I've been on an exhilarating path of growth and learning.
                                 
